@@ -4,7 +4,7 @@ namespace ProjetoCalc
 {
     public class Calculadora
     {
-        //Soma
+        //Soma 
         public static void Soma (int num1, int num2)
         {
             int resultado = num1 + num2;
